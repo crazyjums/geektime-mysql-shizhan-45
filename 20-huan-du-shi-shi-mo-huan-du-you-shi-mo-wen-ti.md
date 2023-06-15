@@ -1,6 +1,6 @@
 # 20 幻读是什么，幻读有什么问题？
 
-<figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 在上一篇文章最后，我给你留了一个关于加锁规则的问题。今天，我们就从这个问题说起吧。
 

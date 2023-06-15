@@ -1,6 +1,6 @@
 # 14 count(\*)这么慢，我该怎么办？
 
-<figure><img src=".gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 在开发系统的时候，你可能经常需要计算一个表的行数，比如一个交易系统的所有变更记录总数。这时候你可能会想，一条select count(\*) from t 语句不就解决了吗？
 

@@ -1,6 +1,6 @@
 # 10 MySQL为什么有时候会选错索引？
 
-<figure><img src=".gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 前面我们介绍过索引，你已经知道了在MySQL中一张表其实是可以支持多个索引的。但是，你写SQL语句的时候，并没有主动指定使用哪个索引。也就是说，使用哪个索引是由MySQL来确定的。
 

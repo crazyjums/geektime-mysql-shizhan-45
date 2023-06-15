@@ -1,6 +1,6 @@
 # 22 MySQL有哪些“饮鸩止渴”提高性能的方法？
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 不知道你在实际运维过程中有没有碰到这样的情景：业务高峰期，生产环境的MySQL压力太大，没法正常响应，需要短期内、临时性地提升一些性能。
 

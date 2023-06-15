@@ -1,6 +1,6 @@
 # 11 怎么给字符串字段加索引？
 
-<figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 现在，几乎所有的系统都支持邮箱登录，如何在邮箱这样的字段上建立合理的索引，是我们今天要讨论的问题。
 

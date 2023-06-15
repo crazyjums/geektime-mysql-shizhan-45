@@ -1,6 +1,6 @@
 # 25 MySQL是怎么保证高可用的？
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 在上一篇文章中，我和你介绍了binlog的基本内容，在一个主备关系中，每个备库接收主库的binlog并执行。
 

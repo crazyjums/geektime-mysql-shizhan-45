@@ -1,6 +1,6 @@
 # 16 “order by”是怎么工作的？
 
-<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 在你开发应用的时候，一定会经常碰到需要根据指定的字段排序来显示结果的需求。还是以我们前面举例用过的市民表为例，假设你要查询城市是“杭州”的所有人名字，并且按照姓名排序返回前1000个人的姓名、年龄。
 

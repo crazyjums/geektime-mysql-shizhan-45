@@ -1,6 +1,6 @@
 # 05 深入浅出索引（下）
 
-<figure><img src=".gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 在上一篇文章中，我和你介绍了InnoDB索引的数据结构模型，今天我们再继续聊聊跟MySQL索引有关的概念。
 

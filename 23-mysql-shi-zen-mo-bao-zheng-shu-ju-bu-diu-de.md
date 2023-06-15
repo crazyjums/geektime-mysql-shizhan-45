@@ -1,6 +1,6 @@
 # 23 MySQL是怎么保证数据不丢的？
 
-<figure><img src=".gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
 今天这篇文章，我会继续和你介绍在业务高峰期临时提升性能的方法。从文章标题“MySQL是怎么保证数据不丢的？”，你就可以看出来，今天我和你介绍的方法，跟数据的可靠性有关。
 

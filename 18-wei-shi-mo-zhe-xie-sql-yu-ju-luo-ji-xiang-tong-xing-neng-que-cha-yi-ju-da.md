@@ -1,6 +1,6 @@
 # 18 为什么这些SQL语句逻辑相同，性能却差异巨大？
 
-<figure><img src=".gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 在MySQL中，有很多看上去逻辑相同，但性能却差异巨大的SQL语句。对这些语句使用不当的话，就会不经意间导致整个数据库的压力变大。
 

@@ -1,6 +1,6 @@
 # 03 事务隔离：为什么你改了我还看不见？
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 提到事务，你肯定不陌生，和数据库打交道的时候，我们总是会用到事务。最经典的例子就是转账，你要给朋友小王转100块钱，而此时你的银行卡只有100块钱。
 

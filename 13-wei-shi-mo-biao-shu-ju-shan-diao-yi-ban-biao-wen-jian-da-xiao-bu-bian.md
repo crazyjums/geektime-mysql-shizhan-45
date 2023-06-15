@@ -1,6 +1,6 @@
 # 13 为什么表数据删掉一半，表文件大小不变？
 
-<figure><img src=".gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 经常会有同学来问我，我的数据库占用空间太大，我把一个最大的表删掉了一半的数据，怎么表文件的大小还是没变？
 

@@ -22,8 +22,8 @@ MySQL 使用和面试中遇到的问题，很多人会通过搜索别人的经�
 
 ### 课程目录
 
-<figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
 > 本文档仅供学习使用，如您有条件，可支持作者：[课程链接](https://time.geekbang.org/column/intro/100020801)
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>

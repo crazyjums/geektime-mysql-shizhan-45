@@ -1,6 +1,6 @@
 # 09 普通索引和唯一索引，应该怎么选择？
 
-<figure><img src=".gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 今天的正文开始前，我要特意感谢一下评论区几位留下高质量留言的同学。
 
