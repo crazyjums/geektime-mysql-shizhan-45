@@ -1,6 +1,6 @@
 # 01 基础架构：一条SQL查询语句是如何执行的？
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 你好，我是林晓斌。
 
